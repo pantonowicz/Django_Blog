@@ -1,5 +1,5 @@
 coverage==4.5.2
-Django==2.1.5
+Django==2.1.x
 django-crispy-forms==1.7.2
 Faker==0.9.0
 Pillow==5.1.0
